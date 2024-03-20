@@ -44,10 +44,6 @@
   |<a href="github.com/ohyeeuun"><img src="https://avatars.githubusercontent.com/ohyeeuun" width="300" height="300"></a>
   |<img scr="\" width="300" height="300">|
   |---|---|---|
-  |stayonasDev
-  |ohyeeuun
-  |공백
-  |<img src="https://camo.githubusercontent.com/3132d1c447ca1bc70a4b046f1fef0be83b4b9cda2772de851e8680051de2602b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3030373339362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d4a617661266c6f676f436f6c6f723d7768697465">
-  |공백
-  |공백|
+  |stayonasDev|ohyeeuun|공백|
+  |<img src="https://camo.githubusercontent.com/3132d1c447ca1bc70a4b046f1fef0be83b4b9cda2772de851e8680051de2602b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3030373339362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d4a617661266c6f676f436f6c6f723d7768697465">|공백|공백|
 
