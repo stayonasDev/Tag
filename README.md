@@ -42,7 +42,7 @@
 
   |<a href="github.com/stayonasDev"><img src="https://avatars.githubusercontent.com/stayonasDev" width="300" height="300"></a>
   |<a href="github.com/ohyeeuun"><img src="https://avatars.githubusercontent.com/ohyeeuun" width="300" height="300"></a>
-  |공백
+  |<img scr="\" width="300" height="300">|
   |---|---|---|
   |stayonasDev
   |ohyeeuun
