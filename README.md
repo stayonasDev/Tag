@@ -1,4 +1,4 @@
-👼Tag Club
+![image](https://github.com/stayonasDev/Tag/assets/149605122/8760e325-368e-4e82-ab70-8118bdbfc8e0)👼Tag Club
 =============
 
 <h2>서론</h2>
@@ -40,8 +40,8 @@
 <hr>
 <h2>🤼참여자</h2>
 
-  |<a href="github.com/stayonasDev"><img src="https://avatars.githubusercontent.com/stayonasDev" width="150" height="150"></a>|<a href="github.com/ohyeeuun"><img src="https://avatars.githubusercontent.com/ohyeeuun" width="150" height="150"></a>|<img scr="\" width="150" height="150">|
+  |<a href="github.com/stayonasDev"><img src="https://avatars.githubusercontent.com/stayonasDev" width="150" height="150"></a>|<a href="github.com/ohyeeuun"><img src="https://avatars.githubusercontent.com/ohyeeuun" width="150" height="150"></a>|<a><img scr="https://avatars.githubusercontent.com/ouseok00" width="150" height="150"></a>|
   |---|---|---|
   |stayonasDev|ohyeeuun|공백|
-  |<img src="https://camo.githubusercontent.com/3132d1c447ca1bc70a4b046f1fef0be83b4b9cda2772de851e8680051de2602b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3030373339362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d4a617661266c6f676f436f6c6f723d7768697465">|공백|공백|
+  |<img src="https://camo.githubusercontent.com/3132d1c447ca1bc70a4b046f1fef0be83b4b9cda2772de851e8680051de2602b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3030373339362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d4a617661266c6f676f436f6c6f723d7768697465">|<img src="https://img.shields.io/badge/c-#A8B9CC?style=for-the-badge&logo=c&logoColor=white">|<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">|
 
