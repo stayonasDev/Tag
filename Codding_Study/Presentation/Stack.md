@@ -6,7 +6,8 @@
  <hr>
  - 데이터 A를 스택에 PUSH A 상
  - PUSH는 데이터 이름이 있어야 하지만 POP은 맨 위 TOP을 삭제하기 떄문에 데이터 이름 명시 X
-![Stack 1-1](https://github.com/stayonasDev/Tag/assets/149605122/79e607b6-b848-41c3-953d-aca55f28d674)
+ <img width="200" height="200" src="https://github.com/stayonasDev/Tag/assets/149605122/3cd3803d-b615-4248-9cf9-d3e3787bf1a6">
+![Stack 1-1](https://github.com/stayonasDev/Tag/assets/149605122/3cd3803d-b615-4248-9cf9-d3e3787bf1a6)
 ![Stack 1-2](https://github.com/stayonasDev/Tag/assets/149605122/adb9c05a-e0c0-49a1-8030-590b80561840)
 -순차적으로 PUSH '데이터' POP 결과
 ![Stack 1-3](https://github.com/stayonasDev/Tag/assets/149605122/3638d908-44a7-4391-9c43-436d38cb5134)
