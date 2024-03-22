@@ -1,7 +1,7 @@
 <h2>Stack</h2>
 <hr>
- - Satck 자료구조는 LIFO 형식(Last In First Out) 
- - 선입 후출이며 제일 마지막에 들어온 것이 제일 먼저 나감
+ - Satck 자료구조는 LIFO 형식(Last In First Out)<br /> 
+ - 선입 후출이며 제일 마지막에 들어온 것이 제일 먼저 나감<br />
  - LIFO는 접시 쌓기, 연탄 쌓기로 생각하면 되듯이 먼저 들어가면 제일 아래에 있기에 먼저 나갈 수 없다.
  <br />
  <hr>
