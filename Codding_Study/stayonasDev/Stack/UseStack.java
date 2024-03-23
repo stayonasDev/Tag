@@ -13,7 +13,7 @@ public class UseStack {
         }
         System.out.println("Stack is Empty? : " + stack.empty());
         System.out.println("POP Top in the Stack : " + stack.pop());
-        System.out.println("Search 4 in Stack : " + stack.search(4));
+        System.out.println("Search 4 in Stack : " + stack.search(0));
 
         System.out.println(stack.size());
         size = stack.size();
