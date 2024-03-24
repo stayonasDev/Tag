@@ -1,8 +1,8 @@
 package Tag.Stack;
 
-public class SimpleListStack {
+public class StackMain {
     public static void main(String[] args) {
-        SimpleList<Integer> stack = new SimpleList<>(5);
+        ArrayStack<Integer> stack = new ArrayStack<>(5);
         stack.push(2);
         stack.push(3);
 
@@ -18,11 +18,11 @@ public class SimpleListStack {
     }
 }
 
-class SimpleList<T>{
+class ArrayStack<T>{
   private int top;
   private T[] stackList;
 
-  SimpleList(int capacity){
+  ArrayStack(int capacity){
       stackList = (T[]) new Object[capacity];
       top = -1; // 스택이 비어있는 상태
     }

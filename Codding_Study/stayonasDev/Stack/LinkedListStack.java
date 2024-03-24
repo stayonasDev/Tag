@@ -29,10 +29,10 @@ class Node<T>{
     }
 }
 
-class ArrayListStack<T>{
+class LinkedListStack<T>{
     private Node<T> top;
 
-    public ArrayListStack(){
+    public LinkedListStack(){
         this.top = null;
     }
 
