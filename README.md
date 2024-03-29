@@ -43,8 +43,8 @@
 
 
   ### Git 사용법
-  - 1. Git 설치 후 Git Bash를 실행
-  - 2. $ git config <--global 선택사항 전역 설정> user.name "별명"
+    1. Git 설치 후 Git Bash를 실행
+    2. $ git config <--global 선택사항 전역 설정> user.name "별명"
     3. $ git config <--global> user.email "깃허브 등록 이메일"
     4. 상단 fork 버튼 클릭 Create a new fork 클릭
     5. 생성 후 코드에서 HTTPS 주소 복사
@@ -62,9 +62,9 @@
 
 
      <p>마지막으로 오류가 많이 나기에 설명란을 작성하였습니다 그 외는 
-    # File to many.. 등 commit 시 파일 이름이 길거나 git bash를 엉뚱한 곳에 실행한 것일 수 있습니다 새로운 빈 폴더 생성 후 git을 시작
-    # push 시 빨간 글씨로 오류
-       2 가지 상황은 git bash 설정 아이디가 자신의 깃허브 리포지토리가 아님 바꿔주어야 함 or 
-       원격 저장소와 로컬 저장소가 병합이 이루어지지 않음 강제 푸쉬시 원격저장소 데이터가 사라지니 $ git pull (안될 시 $ git pull --rebase origin "브랜치이름")
-    #마직으로 병합의 개념을 알아두셔야 합니다 자신의 워킹 디렉토리에서 push 시 원격 저장소로 병합이 되는 것이고 pull 명령어 시 나의 로컬 저장소가 병합 되는 것입니다.
+    # File to many.. 등 commit 시 파일 이름이 길거나 git bash를 엉뚱한 곳에 실행한 것일 수 있습니다 새로운 빈 폴더 생성 후 git을 시작 <br>
+    # push 시 빨간 글씨로 오류 <br>
+       2 가지 상황은 git bash 설정 아이디가 자신의 깃허브 리포지토리가 아님 바꿔주어야 함 or <br> 
+       원격 저장소와 로컬 저장소가 병합이 이루어지지 않음 강제 푸쉬시 원격저장소 데이터가 사라지니 $ git pull (안될 시 $ git pull --rebase origin "브랜치이름") <br>
+    #마직으로 병합의 개념을 알아두셔야 합니다 자신의 워킹 디렉토리에서 push 시 원격 저장소로 병합이 되는 것이고 pull 명령어 시 나의 로컬 저장소가 병합 되는 것입니다. 
      </p>
