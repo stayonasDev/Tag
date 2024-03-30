@@ -50,7 +50,7 @@
     5. 생성 후 코드에서 HTTPS 주소 복사
     6. $ git clone "복사한 원격저장소 URL" .(현재 디렉토리)
     7. 자동으로 remote가 등록 되어있을 것
-    8. $ git remote -v origin 등록 되어있는 것을 확인
+    8. $ git remote -v  origin이 등록 되어있는 것을 확인
     9. $ git checkout -b "브랜치 생성 이름"
     10. $ vim a.txt 작성 후
     11. $ git add a.txt
