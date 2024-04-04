@@ -13,7 +13,7 @@
  </div>
 <h3>순차적으로 PUSH '데이터' POP 결과</h3>
 <div>
-<img width="300" height="300" src="![Stack 1-3](https://github.com/stayonasDev/Tag/assets/149605122/d2a431cd-18f2-488c-b3b7-787b8af806c3)">
+<img width="300" height="300" src="https://github.com/stayonasDev/Tag/assets/149605122/d2a431cd-18f2-488c-b3b7-787b8af806c3">
 <img width="300" height="300" src="https://github.com/stayonasDev/Tag/assets/149605122/cc3a5c81-1d89-48dc-b7e2-c9264808e2d9">
 <img width="300" height="300" src="https://github.com/stayonasDev/Tag/assets/149605122/ebdbe74c-c942-499e-b664-6c0da4bc0f44"><br />
 <img width="300" height="300" src="https://github.com/stayonasDev/Tag/assets/149605122/b653e3c4-3ef2-4335-b9db-142c155e787e">
