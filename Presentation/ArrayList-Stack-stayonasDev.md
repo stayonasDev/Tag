@@ -8,8 +8,10 @@
 ### 단점
 1.순차 리스트는 물리적인 배열로 인덱스로 검색이 빠르지만,
   연결 리스트는 각 노드가 가르키는 노드로 이동하며 검색하는 선형 검색이여서 느리다.
+
 2.구현이 복잡하다.
 
+<br> <br>
 ----
 #구현
  - Node를 먼저 구현한다 노드는 다음 노드를 가르키는 Node와 자신의 데이터를 가진다. 
@@ -21,11 +23,38 @@ class Node<T>{
 }
 ```
 
-- a
+- Stack 구현 LIFO 특성에 맞게 상단 데이터를 가르키게 함
 ``` JAVA
 class ArrayListStack<T>{
   private Node <T> top;
 //생성자들과 메서드들
+}
+```
+- C 구현 예시
+``` C
+#include <stdio.h>
+#include <stdlib.h>
+
+typedef struct Node{
+   int data;
+   struct Node *node;
+} Node;
+
+typedef struct Stack{
+   Node *top;
+} Stack;
+
+void push(Stack *stack, int data){
+    Node *node = (Node *)malloc(sizeof(Node));
+    node -> data = data;
+    node -> node = stack->top;
+    stack -> top = node;
+}
+
+int main() {
+    Stack stack;
+    // stack.top = ?;
+    return 0;
 }
 ```
 
