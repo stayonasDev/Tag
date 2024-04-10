@@ -19,3 +19,13 @@
 <img width="300" height="300" src="https://github.com/stayonasDev/Tag/assets/149605122/b653e3c4-3ef2-4335-b9db-142c155e787e">
 <img width="300" height="300" src="https://github.com/stayonasDev/Tag/assets/149605122/9550e5de-21dc-430f-9a18-a4fe4ec8858f">
 </div>
+---
+
+-연결리스트 스택(예시 설명 추가)
+
+
+ <div>
+ <img width="300" height="300" src="https://github.com/stayonasDev/Tag/assets/149605122/bad516e7-84f0-4a81-85c6-a523345550bb">
+ <img width="300" height="300" src="https://github.com/stayonasDev/Tag/assets/149605122/5d0bb765-3c83-4d79-a382-3a3f3ba9b039">
+ <img width="300" height="300" src="https://github.com/stayonasDev/Tag/assets/149605122/1734ff8b-13a6-4ad7-a4b8-693f84e4f465">
+ </div>
